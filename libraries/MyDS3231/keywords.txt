@@ -1,0 +1,53 @@
+#######################################
+# Syntax Coloring Map For MyDS3231
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+MyDS3231	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+isReady	KEYWORD2
+nowDateTime	KEYWORD2
+setDST	KEYWORD2
+setTime	KEYWORD2
+setDate	KEYWORD2
+setDow	KEYWORD2
+getTimeString	KEYWORD2
+getDateString	KEYWORD2
+getDowString	KEYWORD2
+
+#######################################
+# Global Variable (KEYWORD2)
+#######################################
+
+nowHour	KEYWORD2
+nowMin	KEYWORD2
+nowSec	KEYWORD2
+nowYear	KEYWORD2
+nowMonth	KEYWORD2
+nowDay	KEYWORD2
+nowDow	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+
+#######################################
+# Constants (LITERAL1)
+
+YEAR_2_DIG	LITERAL1
+YEAR_4_DIG	LITERAL1
+HH_MM_SS	LITERAL1
+HH_MM	LITERAL1
+MM_SS	LITERAL1
+DST_ON	LITERAL1
+DST_OFF	LITERAL1
+
+#######################################
